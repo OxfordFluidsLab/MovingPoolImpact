@@ -1,4 +1,4 @@
-<code style="color : name_color">This repository will continue to be updated with more data over the next few weeks!</code>
+<code style="color : Darkorange">This repository will continue to be updated with more data over the next few weeks!</code>
 # Moving Pool Impact
 
 This repository complements the ar$\chi$iv preprint [Fast droplet impact onto slowly moving deep pools](https://arxiv.org/), which has been submitted to the *Journal of Fluid Mechanics*.
