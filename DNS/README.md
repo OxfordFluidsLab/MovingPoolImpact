@@ -2,16 +2,14 @@
 
 Direct numerical simulation code infrastructure for **three-dimensional drop impact onto a moving pool**, supporting collaborative work with the Oxford Fluids Lab at Oxford and the Harris Lab at Brown. The code complements the [associated arXiv preprint](https://arxiv.org/abs/2511.03682), and provides tools for parameter sweeps and visualisation.
 
-
-<img width="100%" alt="3D_SimulationSnapshot" src="https://github.com/user-attachments/assets/86635a45-fe4e-474c-997e-93bfe12b7299" />
+<img width="100%" alt="3D_SimulationSnapshot" src="https://github.com/user-attachments/assets/4b56ec1d-5d7d-4acc-b828-ccb7533f9303" />
 
 ---
 
 ## 📌 Features
 
-✅ Three-dimensional Navier-Stokes solver for drop-pool impact scenarios  
-✅ Parameter sweep support: resolution, drop velocity, pool velocity  
-✅ Two-phase, coalescing fluid volume implementation  
+✅ Three-dimensional Navier-Stokes solver for drop-pool impact scenarios   
+✅ Two-phase, coalescing fluid volume implementation suitable for splashing dynamics
 ✅ High-resolution output and animation capabilities  
 ✅ Supplementary movies for publication and presentation  
 
