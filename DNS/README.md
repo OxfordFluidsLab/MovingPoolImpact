@@ -1,4 +1,3 @@
-```markdown
 # Bouncing droplets onto a moving pool
 
 Direct numerical simulation code infrastructure for **three-dimensional drop impact onto a moving pool**, supporting collaborative work with the Oxford Fluids Lab at Oxford and the Harris Lab at Brown. The code complements the [associated arXiv preprint](https://arxiv.org/abs/2511.03682), and provides tools for parameter sweeps and visualisation.
@@ -91,15 +90,18 @@ Visualisation can be toggled depending on your architecture and needs.
 
 If you use this code or data in your work, please cite the associated preprint (for now):
 
-> Harris, D. M., Alventosa, L. F., Sand, O., Silver, E., Mohammadi, A., Sykes, T. C., ... & Cimpeanu, R. (2025). Bouncing to coalescence transition for droplet impact onto moving liquid pools. ar[...]
+> Thomas C. Sykes, Luke F.L. Alventosa, J. Rafael Castrejon-Pita, Radu Cimpeanu, Daniel M. Harris, Alfonso A. Castrejon-Pita (2025). Fast droplet impact onto slowly moving deep pools. arXiv:2511.03682.
 
 BibTeX:
 ```bibtex
-@article{Harris2025Bouncing,
-  title={Bouncing to coalescence transition for droplet impact onto moving liquid pools},
-  author={Harris, D. M. and Alventosa, L. F. and Sand, O. and Silver, E. and Mohammadi, A. and Sykes, T. C. and ... and Cimpeanu, R.},
-  journal={arXiv preprint arXiv:2510.02220},
-  year={2025}
+@article{Sykes2025arxiv,
+ author = {Sykes, Thomas C. and Alventosa, Luke F.L. and Castrej{\'o}n-Pita, J. Rafael and Cimpeanu, Radu and Harris, Daniel M. and Castrej{\'o}n-Pita, Alfonso A.},
+ title = {Fast droplet impact onto slowly moving deep pools},
+ journal = {arXiv preprint arXiv:2511.03682},
+ doi = {https://doi.org/10.48550/arXiv.2511.03682},
+ volume = {},
+ pages = {},
+ year = {2025}
 }
 ```
 
