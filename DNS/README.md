@@ -9,7 +9,7 @@ Direct numerical simulation code infrastructure for **three-dimensional drop imp
 ## 📌 Features
 
 ✅ Three-dimensional Navier-Stokes solver for drop-pool impact scenarios   
-✅ Two-phase, coalescing fluid volume implementation suitable for splashing dynamics
+✅ Two-phase, coalescing fluid volume implementation suitable for splashing dynamics  
 ✅ High-resolution output and animation capabilities  
 ✅ Supplementary movies for publication and presentation  
 
