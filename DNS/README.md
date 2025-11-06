@@ -1,4 +1,4 @@
-# Bouncing droplets onto a moving pool
+# Drop impact onto a moving pool
 
 Direct numerical simulation code infrastructure for **three-dimensional drop impact onto a moving pool**, supporting collaborative work with the Oxford Fluids Lab at Oxford and the Harris Lab at Brown. The code complements the [associated arXiv preprint](https://arxiv.org/abs/2511.03682), and provides tools for parameter specification, verification and visualisation.
 
