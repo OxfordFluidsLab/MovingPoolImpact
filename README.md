@@ -12,8 +12,8 @@ Once the paper has been accepted for publication in a journal, this citation wil
 @article{Sykes2025arxiv,
  author = {Sykes, Thomas C. Alventosa, Luke F.L. and Castrej{\'o}n-Pita, J. Rafael and Cimpeanu, Radu and Harris, Daniel M. and Castrej{\'o}n-Pita, Alfonso A.},
  title = {Fast droplet impact onto slowly moving deep pools},
- journal = {arXiv preprint},
- doi = {},
+ journal = {arXiv preprint arXiv:2511.03682},
+ doi = {https://doi.org/10.48550/arXiv.2511.03682},
  volume = {},
  pages = {},
  year = {2025}
