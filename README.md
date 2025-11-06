@@ -10,7 +10,7 @@ Once the paper has been accepted for publication in a journal, this citation wil
 
 ```bash
 @article{Sykes2025arxiv,
- author = {Sykes, Thomas C. Alventosa, Luke F.L. and Castrej{\'o}n-Pita, J. Rafael and Cimpeanu, Radu and Harris, Daniel M. and Castrej{\'o}n-Pita, Alfonso A.},
+ author = {Sykes, Thomas C. and Alventosa, Luke F.L. and Castrej{\'o}n-Pita, J. Rafael and Cimpeanu, Radu and Harris, Daniel M. and Castrej{\'o}n-Pita, Alfonso A.},
  title = {Fast droplet impact onto slowly moving deep pools},
  journal = {arXiv preprint arXiv:2511.03682},
  doi = {https://doi.org/10.48550/arXiv.2511.03682},
